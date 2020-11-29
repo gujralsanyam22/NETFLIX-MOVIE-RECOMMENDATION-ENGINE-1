@@ -2,7 +2,7 @@
 
 ## Table of Content:
   * [Overview](#overview)
-  * [Buisness Problem](#Buisness Problem)
+  * [Buisness-Problem](#Buisness-Problem)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
@@ -13,7 +13,7 @@
   * [Technologies Used](#technologies-used)
   * [Sources](#Sources)
   * [Real World Buisness/Objectives](#Real-World)
-  * [Built With](#Built with)
+  * [Built With](#Built With)
   * [Acknowledgement](#Acknowledgement)
   * [License](#license)
   * [Credits](#credits)
